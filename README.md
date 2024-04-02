@@ -15,6 +15,12 @@
     <li>React Navigation v4.4.4</li>
   </ul>
 </ul>
+<h3>Project Limitations and Problems:</h3>
+<ul>
+  <li>If you press wrong user... nothing happens</li>
+  <li>Problems with pizza photos in terms of size</li>
+  <li>Pizza Cart counter doesn't synchronize with Pizza Detail counter</li>
+</ul>
 <h3>Some Images from the Project:</h3>
 <hr>
 <img width="395" alt="Screenshot 2024-03-19 at 22 31 03" src="https://github.com/1olelllka/ItaloPizza/assets/67587036/8618c588-f7c8-461d-b2ca-90ba8c69fa6d">
